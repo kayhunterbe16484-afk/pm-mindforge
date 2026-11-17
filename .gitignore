@@ -1,0 +1,6 @@
+dist/
+*.zip
+.DS_Store
+训练记录/
+.dsh/
+node_modules/
